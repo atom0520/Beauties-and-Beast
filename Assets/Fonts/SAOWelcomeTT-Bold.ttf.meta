@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5e56960e6910cab4d874e84bf660f2ab
+timeCreated: 1513960095
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SAO Welcome TT
+  fontNames:
+  - SAO Welcome TT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2a2c6e8b7da1bad4e9ef97301fabcf02, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
